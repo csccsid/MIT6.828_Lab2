@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 /obj
 /jos.in
 /jos.log
@@ -16,3 +17,37 @@
 /sol?/
 /myapi.key
 /.suf
+=======
+# Prerequisites
+*.d
+
+# Compiled Object files
+*.slo
+*.lo
+*.o
+*.obj
+
+# Precompiled Headers
+*.gch
+*.pch
+
+# Compiled Dynamic libraries
+*.so
+*.dylib
+*.dll
+
+# Fortran module files
+*.mod
+*.smod
+
+# Compiled Static libraries
+*.lai
+*.la
+*.a
+*.lib
+
+# Executables
+*.exe
+*.out
+*.app
+>>>>>>> 254f191e8be2e9ca5993e973da27a7fdd32b40b8
